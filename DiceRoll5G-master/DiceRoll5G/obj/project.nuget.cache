@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+h+RxIVgGB3s3SAKofxOzuvxzm/LtuTv77V15H2oX33aenkb5A0NNEqqiSEwmOa3lJBRLpNM2aygHnzpAidsA==",
+  "success": false,
+  "projectFilePath": "D:\\VS\\DiceRoll5G-master\\DiceRoll5G-master\\DiceRoll5G\\DiceRoll5G.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Wersja platformy nie jest obecna dla co najmniej jednej platformy docelowej, mimo że określono platformę: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
